@@ -1,0 +1,68 @@
+{
+    "name": "Postcode Anywhere",
+    "description": "<p>Postcode Anywhere is a UK-based company best known for its market-leading &lsquo;what&rsquo;s your postcode&rsquo; technology, used to quickly complete your address when buying online. &nbsp;It was established by Guy Mucklow and Jamie Turner in 2001. By seeing the internet value as a much more efficient information delivery medium than traditional methods - which typically involved burning data onto CDs and shipping out to the customer - Postcode Anywhere has turned the market upside down.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/370_logo.png",
+    "tags": [
+        "addresses",
+        "api united kingdom",
+        "credit",
+        "customer engagement",
+        "demographics",
+        "display",
+        "financial",
+        "geo",
+        "have api",
+        "international",
+        "local",
+        "postal",
+        "routes",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/postcode-anywhere\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Postcode Anywhere",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/370_logo.png",
+            "humanURL": "http:\/\/www.postcodeanywhere.co.uk\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/postcode-anywhere-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/postcode-anywhere-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.postcodeanywhere.co.uk\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/postcode-anywhere"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.postcodeanywhere.co.uk\/support\/webservices\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pca_plus"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.postcodeanywhere.co.uk\/"
+        }
+    ]
+}
